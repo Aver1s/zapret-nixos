@@ -42,7 +42,7 @@ git clone https://github.com/Aver1s/zapret-nixos.git && cd zapret-nixos
 ```
 ```bash
 # 2. Запустите установку
-sudo ./install.sh
+sudo bash install.sh
 ```
 ```bash
 # 3. Добавьте в конфигурацию NixOS
