@@ -9,30 +9,30 @@
 
 Этот **Форк** Основан на:
 
-    [Sergeydigl3/zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux)
+ - [Sergeydigl3/zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux)
 
-    [bol-van/zapret](https://github.com/bol-van/zapret)
+ - [bol-van/zapret](https://github.com/bol-van/zapret)
 
-    Стратегиях от Flowseal [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+ - Стратегиях от Flowseal [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
 
 Изменения в этом форке:
 
-    Адаптация для NixOS
+ - Адаптация для NixOS
 
-    Готовый systemd сервис через Nix модуль
+ - Готовый systemd сервис через Nix модуль
 
-    Установка в /opt/zapret (стандарт FHS)
+ - Установка в /opt/zapret (стандарт FHS)
 
-    Проект создан как адаптация для NixOS, всё достаточно минималистично и просто, иными словами для ленивых. Я **НЕ** гарантирую 100% работоспособность программы на вашей системе.
+  Проект создан как адаптация для NixOS, всё достаточно минималистично и просто, иными словами для ленивых. Я **НЕ** гарантирую 100% работоспособность программы на вашей системе.
 
-    Я создал только скрипт установки и .nix файл. Оригинальный код распространяется под лицензией оригинальных авторов. 
+  Я создал только скрипт установки и .nix файл. Оригинальный код распространяется под лицензией оригинальных авторов. 
     Данная адаптация — [MIT](https://github.com/Flowseal/zapret-discord-youtube/blob/main/LICENSE.txt) License.
 
 Полезные ссылки:
 
-    Оригинальный проект [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
+ - Оригинальный проект [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)
     
-    [Обсуждения и вопросы](https://github.com/Aver1s/zapret-nixos/discussions)
+ - [Обсуждения и вопросы](https://github.com/Aver1s/zapret-nixos/discussions)
 
 ## ⚡ Быстрая установка ⚡
 
